@@ -1,0 +1,2015 @@
+{
+  "packages": [
+    {
+      "packageId": "FP-Basic-1",
+      "packageName": "Basic",
+      "items": [
+        "Rice",
+        "Juice",
+        "Fruit Platter"
+      ],
+      "pricePerGuest": 1585,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 755
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-1",
+      "packageName": "Standard",
+      "items": [
+        "Drinks"
+      ],
+      "pricePerGuest": 886,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 638
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 64
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-1",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter",
+        "Rice",
+        "Beef"
+      ],
+      "pricePerGuest": 674,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 119
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-2",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1608,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 506
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 19
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-2",
+      "packageName": "Standard",
+      "items": [
+        "Chicken"
+      ],
+      "pricePerGuest": 920,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 471
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-2",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 665,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 471
+        },
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 374
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-3",
+      "packageName": "Basic",
+      "items": [
+        "Chicken",
+        "Dessert",
+        "Bread"
+      ],
+      "pricePerGuest": 1432,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 610
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-3",
+      "packageName": "Standard",
+      "items": [
+        "Soup"
+      ],
+      "pricePerGuest": 976,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-3",
+      "packageName": "Premium",
+      "items": [
+        "Drinks",
+        "Salad"
+      ],
+      "pricePerGuest": 787,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 750
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-4",
+      "packageName": "Basic",
+      "items": [
+        "Vegetables",
+        "Fruit Platter"
+      ],
+      "pricePerGuest": 1681,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 519
+        },
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 278
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-4",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 707,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-4",
+      "packageName": "Premium",
+      "items": [
+        "Beef"
+      ],
+      "pricePerGuest": 606,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-5",
+      "packageName": "Basic",
+      "items": [
+        "Vegetables",
+        "Fruit Platter",
+        "Chicken"
+      ],
+      "pricePerGuest": 1941,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 105
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 461
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-5",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 1180,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 251
+        },
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 430
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-5",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 1064,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 350
+        },
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 158
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-6",
+      "packageName": "Basic",
+      "items": [
+        "Rice",
+        "Drinks",
+        "Bread"
+      ],
+      "pricePerGuest": 1741,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 347
+        },
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 15
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-6",
+      "packageName": "Standard",
+      "items": [
+        "Dessert"
+      ],
+      "pricePerGuest": 972,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-6",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter",
+        "Beef"
+      ],
+      "pricePerGuest": 893,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-7",
+      "packageName": "Basic",
+      "items": [
+        "Ice Cream"
+      ],
+      "pricePerGuest": 2052,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 372
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-7",
+      "packageName": "Standard",
+      "items": [
+        "Bread",
+        "Ice Cream",
+        "Beef"
+      ],
+      "pricePerGuest": 911,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 626
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-7",
+      "packageName": "Premium",
+      "items": [
+        "Dessert",
+        "Vegetables"
+      ],
+      "pricePerGuest": 1019,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 32
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 87
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-8",
+      "packageName": "Basic",
+      "items": [
+        "Drinks"
+      ],
+      "pricePerGuest": 1995,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 190
+        },
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 14
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-8",
+      "packageName": "Standard",
+      "items": [
+        "Fruit Platter",
+        "Juice",
+        "Vegetables"
+      ],
+      "pricePerGuest": 987,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 40
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-8",
+      "packageName": "Premium",
+      "items": [
+        "Soup"
+      ],
+      "pricePerGuest": 445,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 101
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-9",
+      "packageName": "Basic",
+      "items": [
+        "Rice",
+        "Vegetables"
+      ],
+      "pricePerGuest": 1805,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 362
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-9",
+      "packageName": "Standard",
+      "items": [
+        "Salad",
+        "Juice",
+        "Vegetables"
+      ],
+      "pricePerGuest": 1146,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 10
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 353
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-9",
+      "packageName": "Premium",
+      "items": [
+        "Rice",
+        "Vegetables"
+      ],
+      "pricePerGuest": 588,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 262
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-10",
+      "packageName": "Basic",
+      "items": [
+        "Chicken",
+        "Beef"
+      ],
+      "pricePerGuest": 1476,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 709
+        },
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 513
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-10",
+      "packageName": "Standard",
+      "items": [
+        "Soup"
+      ],
+      "pricePerGuest": 673,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 583
+        },
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 23
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-10",
+      "packageName": "Premium",
+      "items": [
+        "Juice",
+        "Soup"
+      ],
+      "pricePerGuest": 838,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-11",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1974,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 69
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-11",
+      "packageName": "Standard",
+      "items": [
+        "Soup",
+        "Vegetables"
+      ],
+      "pricePerGuest": 866,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 709
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-11",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 596,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 670
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-12",
+      "packageName": "Basic",
+      "items": [
+        "Vegetables"
+      ],
+      "pricePerGuest": 1686,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 391
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 82
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-12",
+      "packageName": "Standard",
+      "items": [
+        "Salad",
+        "Ice Cream",
+        "Juice"
+      ],
+      "pricePerGuest": 825,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-12",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 420,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-13",
+      "packageName": "Basic",
+      "items": [
+        "Ice Cream",
+        "Salad",
+        "Chicken"
+      ],
+      "pricePerGuest": 1540,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-13",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 1159,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 611
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-13",
+      "packageName": "Premium",
+      "items": [
+        "Bread"
+      ],
+      "pricePerGuest": 882,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 181
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-14",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1862,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-14",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 606,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 630
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-14",
+      "packageName": "Premium",
+      "items": [
+        "Vegetables"
+      ],
+      "pricePerGuest": 498,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-15",
+      "packageName": "Basic",
+      "items": [
+        "Ice Cream",
+        "Beef"
+      ],
+      "pricePerGuest": 1445,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 413
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 178
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-15",
+      "packageName": "Standard",
+      "items": [
+        "Salad"
+      ],
+      "pricePerGuest": 1076,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 235
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-15",
+      "packageName": "Premium",
+      "items": [
+        "Juice"
+      ],
+      "pricePerGuest": 450,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-16",
+      "packageName": "Basic",
+      "items": [
+        "Beef",
+        "Salad",
+        "Bread"
+      ],
+      "pricePerGuest": 1819,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 580
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-16",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 500,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 588
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-16",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 620,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-17",
+      "packageName": "Basic",
+      "items": [
+        "Bread"
+      ],
+      "pricePerGuest": 1851,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 255
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 247
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-17",
+      "packageName": "Standard",
+      "items": [
+        "Salad",
+        "Juice"
+      ],
+      "pricePerGuest": 953,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 398
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 719
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-17",
+      "packageName": "Premium",
+      "items": [
+        "Chicken",
+        "Rice",
+        "Dessert"
+      ],
+      "pricePerGuest": 434,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 284
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 600
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-18",
+      "packageName": "Basic",
+      "items": [
+        "Drinks",
+        "Salad",
+        "Beef"
+      ],
+      "pricePerGuest": 1580,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 104
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-18",
+      "packageName": "Standard",
+      "items": [
+        "Ice Cream",
+        "Chicken"
+      ],
+      "pricePerGuest": 796,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-18",
+      "packageName": "Premium",
+      "items": [
+        "Drinks"
+      ],
+      "pricePerGuest": 997,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-19",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 2027,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-19",
+      "packageName": "Standard",
+      "items": [
+        "Vegetables",
+        "Beef"
+      ],
+      "pricePerGuest": 838,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 746
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 201
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-19",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter"
+      ],
+      "pricePerGuest": 680,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-20",
+      "packageName": "Basic",
+      "items": [
+        "Dessert"
+      ],
+      "pricePerGuest": 1974,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 638
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-20",
+      "packageName": "Standard",
+      "items": [
+        "Salad",
+        "Beef",
+        "Soup"
+      ],
+      "pricePerGuest": 952,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 450
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-20",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter",
+        "Chicken",
+        "Ice Cream"
+      ],
+      "pricePerGuest": 605,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-21",
+      "packageName": "Basic",
+      "items": [
+        "Chicken"
+      ],
+      "pricePerGuest": 1840,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 480
+        },
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 276
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-21",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 809,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 93
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-21",
+      "packageName": "Premium",
+      "items": [
+        "Drinks"
+      ],
+      "pricePerGuest": 896,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 258
+        },
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 424
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-22",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1780,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 55
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-22",
+      "packageName": "Standard",
+      "items": [
+        "Rice",
+        "Bread"
+      ],
+      "pricePerGuest": 737,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-22",
+      "packageName": "Premium",
+      "items": [
+        "Juice"
+      ],
+      "pricePerGuest": 974,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-23",
+      "packageName": "Basic",
+      "items": [
+        "Rice",
+        "Juice"
+      ],
+      "pricePerGuest": 1739,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-23",
+      "packageName": "Standard",
+      "items": [
+        "Dessert",
+        "Fruit Platter",
+        "Bread"
+      ],
+      "pricePerGuest": 901,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 754
+        },
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 92
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-23",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 565,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 780
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-24",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1905,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 380
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-24",
+      "packageName": "Standard",
+      "items": [
+        "Vegetables",
+        "Bread",
+        "Drinks"
+      ],
+      "pricePerGuest": 803,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 586
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-24",
+      "packageName": "Premium",
+      "items": [
+        "Chicken",
+        "Drinks",
+        "Soup"
+      ],
+      "pricePerGuest": 769,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 737
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 687
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-25",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1930,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 659
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-25",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 891,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-25",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter",
+        "Bread",
+        "Vegetables"
+      ],
+      "pricePerGuest": 389,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 398
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 57
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-26",
+      "packageName": "Basic",
+      "items": [
+        "Beef"
+      ],
+      "pricePerGuest": 1704,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 21
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-26",
+      "packageName": "Standard",
+      "items": [
+        "Fruit Platter",
+        "Bread"
+      ],
+      "pricePerGuest": 590,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-26",
+      "packageName": "Premium",
+      "items": [
+        "Juice",
+        "Beef"
+      ],
+      "pricePerGuest": 398,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 323
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-27",
+      "packageName": "Basic",
+      "items": [
+        "Drinks",
+        "Ice Cream",
+        "Rice"
+      ],
+      "pricePerGuest": 1693,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 517
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 710
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-27",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 999,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-27",
+      "packageName": "Premium",
+      "items": [
+        "Vegetables",
+        "Ice Cream",
+        "Juice"
+      ],
+      "pricePerGuest": 638,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-28",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1843,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 587
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-28",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 1091,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-28",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter"
+      ],
+      "pricePerGuest": 747,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 11
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-29",
+      "packageName": "Basic",
+      "items": [
+        "Beef",
+        "Salad"
+      ],
+      "pricePerGuest": 2069,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 688
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-29",
+      "packageName": "Standard",
+      "items": [
+        "Ice Cream",
+        "Vegetables",
+        "Chicken"
+      ],
+      "pricePerGuest": 892,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-29",
+      "packageName": "Premium",
+      "items": [
+        "Soup"
+      ],
+      "pricePerGuest": 989,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 358
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-30",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1909,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-30",
+      "packageName": "Standard",
+      "items": [
+        "Ice Cream",
+        "Chicken",
+        "Soup"
+      ],
+      "pricePerGuest": 649,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 623
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-30",
+      "packageName": "Premium",
+      "items": [
+        "Dessert"
+      ],
+      "pricePerGuest": 530,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 718
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 396
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-31",
+      "packageName": "Basic",
+      "items": [
+        "Fruit Platter"
+      ],
+      "pricePerGuest": 2036,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-31",
+      "packageName": "Standard",
+      "items": [
+        "Drinks",
+        "Juice",
+        "Vegetables"
+      ],
+      "pricePerGuest": 914,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-31",
+      "packageName": "Premium",
+      "items": [
+        "Vegetables",
+        "Soup"
+      ],
+      "pricePerGuest": 1079,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-32",
+      "packageName": "Basic",
+      "items": [
+        "Rice",
+        "Ice Cream",
+        "Chicken"
+      ],
+      "pricePerGuest": 1851,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 686
+        },
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 734
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-32",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 661,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 125
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-32",
+      "packageName": "Premium",
+      "items": [
+        "Dessert",
+        "Drinks"
+      ],
+      "pricePerGuest": 1028,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 316
+        },
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 219
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-33",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 2089,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 793
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-33",
+      "packageName": "Standard",
+      "items": [
+        "Dessert",
+        "Salad",
+        "Vegetables"
+      ],
+      "pricePerGuest": 935,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-33",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter",
+        "Juice"
+      ],
+      "pricePerGuest": 701,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-34",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 2015,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 398
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-34",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 556,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 503
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 26
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-34",
+      "packageName": "Premium",
+      "items": [
+        "Beef",
+        "Chicken"
+      ],
+      "pricePerGuest": 985,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-35",
+      "packageName": "Basic",
+      "items": [
+        "Dessert"
+      ],
+      "pricePerGuest": 1615,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-35",
+      "packageName": "Standard",
+      "items": [
+        "Rice",
+        "Chicken"
+      ],
+      "pricePerGuest": 800,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 714
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 321
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-35",
+      "packageName": "Premium",
+      "items": [
+        "Juice",
+        "Chicken",
+        "Soup"
+      ],
+      "pricePerGuest": 460,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 566
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-36",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1740,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 593
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 314
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-36",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 878,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-36",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 808,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-37",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1428,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 28
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 727
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-37",
+      "packageName": "Standard",
+      "items": [
+        "Soup"
+      ],
+      "pricePerGuest": 1036,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 404
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-37",
+      "packageName": "Premium",
+      "items": [
+        "Rice"
+      ],
+      "pricePerGuest": 786,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 521
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-38",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1442,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-38",
+      "packageName": "Standard",
+      "items": [
+        "Fruit Platter",
+        "Juice",
+        "Ice Cream"
+      ],
+      "pricePerGuest": 1183,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-38",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 843,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 630
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-39",
+      "packageName": "Basic",
+      "items": [
+        "Bread",
+        "Rice",
+        "Juice"
+      ],
+      "pricePerGuest": 1666,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 253
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-39",
+      "packageName": "Standard",
+      "items": [
+        "Dessert"
+      ],
+      "pricePerGuest": 844,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 133
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-39",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 683,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-40",
+      "packageName": "Basic",
+      "items": [
+        "Vegetables"
+      ],
+      "pricePerGuest": 1470,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 312
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 505
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-40",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 715,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 149
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-40",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 1028,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 577
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-41",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 2007,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 108
+        },
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 75
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-41",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 554,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-41",
+      "packageName": "Premium",
+      "items": [
+        "Chicken",
+        "Dessert"
+      ],
+      "pricePerGuest": 897,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 418
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-42",
+      "packageName": "Basic",
+      "items": [
+        "Chicken",
+        "Soup"
+      ],
+      "pricePerGuest": 2020,
+      "optionalAddOns": [
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 67
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-42",
+      "packageName": "Standard",
+      "items": [
+        "Rice",
+        "Fruit Platter",
+        "Bread"
+      ],
+      "pricePerGuest": 796,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 638
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 1
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-42",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter",
+        "Rice",
+        "Beef"
+      ],
+      "pricePerGuest": 714,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 29
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-43",
+      "packageName": "Basic",
+      "items": [
+        "Beef",
+        "Salad"
+      ],
+      "pricePerGuest": 1458,
+      "optionalAddOns": [
+        {
+          "name": "Premium Dessert",
+          "additionalPrice": 128
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 547
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-43",
+      "packageName": "Standard",
+      "items": [
+        "Rice"
+      ],
+      "pricePerGuest": 1142,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 618
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-43",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 413,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-44",
+      "packageName": "Basic",
+      "items": [
+        "Drinks"
+      ],
+      "pricePerGuest": 1820,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 465
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-44",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 828,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 637
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-44",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 470,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-45",
+      "packageName": "Basic",
+      "items": [
+        "Ice Cream",
+        "Rice"
+      ],
+      "pricePerGuest": 1594,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-45",
+      "packageName": "Standard",
+      "items": [],
+      "pricePerGuest": 775,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-45",
+      "packageName": "Premium",
+      "items": [
+        "Chicken"
+      ],
+      "pricePerGuest": 987,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 285
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-46",
+      "packageName": "Basic",
+      "items": [
+        "Drinks"
+      ],
+      "pricePerGuest": 1700,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-46",
+      "packageName": "Standard",
+      "items": [
+        "Juice"
+      ],
+      "pricePerGuest": 541,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 269
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-46",
+      "packageName": "Premium",
+      "items": [
+        "Fruit Platter",
+        "Bread"
+      ],
+      "pricePerGuest": 819,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 287
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-47",
+      "packageName": "Basic",
+      "items": [
+        "Juice"
+      ],
+      "pricePerGuest": 1776,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 341
+        },
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 77
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-47",
+      "packageName": "Standard",
+      "items": [
+        "Soup",
+        "Juice"
+      ],
+      "pricePerGuest": 696,
+      "optionalAddOns": [
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 108
+        },
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 786
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-47",
+      "packageName": "Premium",
+      "items": [],
+      "pricePerGuest": 756,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 160
+        },
+        {
+          "name": "Live Salad Station",
+          "additionalPrice": 490
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Basic-48",
+      "packageName": "Basic",
+      "items": [
+        "Salad",
+        "Rice",
+        "Soup"
+      ],
+      "pricePerGuest": 1673,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Standard-48",
+      "packageName": "Standard",
+      "items": [
+        "Juice",
+        "Fruit Platter",
+        "Salad"
+      ],
+      "pricePerGuest": 887,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-48",
+      "packageName": "Premium",
+      "items": [
+        "Vegetables"
+      ],
+      "pricePerGuest": 650,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-49",
+      "packageName": "Basic",
+      "items": [],
+      "pricePerGuest": 1561,
+      "optionalAddOns": [
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 522
+        },
+        {
+          "name": "Extra Drinks",
+          "additionalPrice": 606
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-49",
+      "packageName": "Standard",
+      "items": [
+        "Chicken"
+      ],
+      "pricePerGuest": 553,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Premium-49",
+      "packageName": "Premium",
+      "items": [
+        "Beef"
+      ],
+      "pricePerGuest": 952,
+      "optionalAddOns": []
+    },
+    {
+      "packageId": "FP-Basic-50",
+      "packageName": "Basic",
+      "items": [
+        "Bread"
+      ],
+      "pricePerGuest": 1433,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 490
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Standard-50",
+      "packageName": "Standard",
+      "items": [
+        "Salad",
+        "Juice"
+      ],
+      "pricePerGuest": 529,
+      "optionalAddOns": [
+        {
+          "name": "Chocolate Fountain",
+          "additionalPrice": 395
+        },
+        {
+          "name": "Extra Decoration",
+          "additionalPrice": 474
+        }
+      ]
+    },
+    {
+      "packageId": "FP-Premium-50",
+      "packageName": "Premium",
+      "items": [
+        "Rice",
+        "Juice"
+      ],
+      "pricePerGuest": 810,
+      "optionalAddOns": []
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "featuredHalls": [
+    {
+      "hallId": "H-1075",
+      "name": "Wedding Hall 75",
+      "type": "Wedding",
+      "capacity": 433,
+      "basePricePerDay": 78362,
+      "basePricePerGuest": 2899,
+      "amenities": [
+        "Garden",
+        "Sound System",
+        "Decoration",
+        "WiFi"
+      ],
+      "images": [
+        "https://example.com/images/hall75_1.jpg",
+        "https://example.com/images/hall75_2.jpg",
+        "https://example.com/images/hall75_3.jpg",
+        "https://example.com/images/hall75_4.jpg",
+        "https://example.com/images/hall75_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1018",
+      "name": "Luxury Hall 18",
+      "type": "Luxury",
+      "capacity": 409,
+      "basePricePerDay": 221713,
+      "basePricePerGuest": 2837,
+      "amenities": [
+        "Stage",
+        "Garden",
+        "Lighting",
+        "Decoration"
+      ],
+      "images": [
+        "https://example.com/images/hall18_1.jpg",
+        "https://example.com/images/hall18_2.jpg",
+        "https://example.com/images/hall18_3.jpg",
+        "https://example.com/images/hall18_4.jpg",
+        "https://example.com/images/hall18_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1059",
+      "name": "Wedding Hall 59",
+      "type": "Wedding",
+      "capacity": 355,
+      "basePricePerDay": 173263,
+      "basePricePerGuest": 2813,
+      "amenities": [
+        "AC",
+        "Parking",
+        "Lighting",
+        "Garden"
+      ],
+      "images": [
+        "https://example.com/images/hall59_1.jpg",
+        "https://example.com/images/hall59_2.jpg",
+        "https://example.com/images/hall59_3.jpg",
+        "https://example.com/images/hall59_4.jpg",
+        "https://example.com/images/hall59_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1073",
+      "name": "Corporate Hall 73",
+      "type": "Corporate",
+      "capacity": 359,
+      "basePricePerDay": 244916,
+      "basePricePerGuest": 3357,
+      "amenities": [
+        "Garden",
+        "Decoration",
+        "AC",
+        "Parking"
+      ],
+      "images": [
+        "https://example.com/images/hall73_1.jpg",
+        "https://example.com/images/hall73_2.jpg",
+        "https://example.com/images/hall73_3.jpg",
+        "https://example.com/images/hall73_4.jpg",
+        "https://example.com/images/hall73_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1096",
+      "name": "Birthday Hall 96",
+      "type": "Birthday",
+      "capacity": 144,
+      "basePricePerDay": 195845,
+      "basePricePerGuest": 613,
+      "amenities": [
+        "AC",
+        "Garden",
+        "Lighting",
+        "Sound System"
+      ],
+      "images": [
+        "https://example.com/images/hall96_1.jpg",
+        "https://example.com/images/hall96_2.jpg",
+        "https://example.com/images/hall96_3.jpg",
+        "https://example.com/images/hall96_4.jpg",
+        "https://example.com/images/hall96_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1056",
+      "name": "Birthday Hall 56",
+      "type": "Birthday",
+      "capacity": 20,
+      "basePricePerDay": 201586,
+      "basePricePerGuest": 779,
+      "amenities": [
+        "Garden",
+        "Decoration",
+        "Sound System",
+        "Lighting"
+      ],
+      "images": [
+        "https://example.com/images/hall56_1.jpg",
+        "https://example.com/images/hall56_2.jpg",
+        "https://example.com/images/hall56_3.jpg",
+        "https://example.com/images/hall56_4.jpg",
+        "https://example.com/images/hall56_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1021",
+      "name": "Corporate Hall 21",
+      "type": "Corporate",
+      "capacity": 58,
+      "basePricePerDay": 206902,
+      "basePricePerGuest": 1265,
+      "amenities": [
+        "Decoration",
+        "Sound System",
+        "WiFi",
+        "AC"
+      ],
+      "images": [
+        "https://example.com/images/hall21_1.jpg",
+        "https://example.com/images/hall21_2.jpg",
+        "https://example.com/images/hall21_3.jpg",
+        "https://example.com/images/hall21_4.jpg",
+        "https://example.com/images/hall21_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1064",
+      "name": "Corporate Hall 64",
+      "type": "Corporate",
+      "capacity": 347,
+      "basePricePerDay": 131606,
+      "basePricePerGuest": 2271,
+      "amenities": [
+        "Sound System",
+        "Decoration",
+        "AC",
+        "Lighting"
+      ],
+      "images": [
+        "https://example.com/images/hall64_1.jpg",
+        "https://example.com/images/hall64_2.jpg",
+        "https://example.com/images/hall64_3.jpg",
+        "https://example.com/images/hall64_4.jpg",
+        "https://example.com/images/hall64_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1022",
+      "name": "Birthday Hall 22",
+      "type": "Birthday",
+      "capacity": 132,
+      "basePricePerDay": 243447,
+      "basePricePerGuest": 3425,
+      "amenities": [
+        "Stage",
+        "WiFi",
+        "Parking",
+        "AC"
+      ],
+      "images": [
+        "https://example.com/images/hall22_1.jpg",
+        "https://example.com/images/hall22_2.jpg",
+        "https://example.com/images/hall22_3.jpg",
+        "https://example.com/images/hall22_4.jpg",
+        "https://example.com/images/hall22_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1093",
+      "name": "Wedding Hall 93",
+      "type": "Wedding",
+      "capacity": 140,
+      "basePricePerDay": 132182,
+      "basePricePerGuest": 306,
+      "amenities": [
+        "Sound System",
+        "Parking",
+        "Decoration",
+        "Garden"
+      ],
+      "images": [
+        "https://example.com/images/hall93_1.jpg",
+        "https://example.com/images/hall93_2.jpg",
+        "https://example.com/images/hall93_3.jpg",
+        "https://example.com/images/hall93_4.jpg",
+        "https://example.com/images/hall93_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1091",
+      "name": "Luxury Hall 91",
+      "type": "Luxury",
+      "capacity": 196,
+      "basePricePerDay": 3560,
+      "basePricePerGuest": 1923,
+      "amenities": [
+        "Garden",
+        "AC",
+        "Decoration",
+        "Parking"
+      ],
+      "images": [
+        "https://example.com/images/hall91_1.jpg",
+        "https://example.com/images/hall91_2.jpg",
+        "https://example.com/images/hall91_3.jpg",
+        "https://example.com/images/hall91_4.jpg",
+        "https://example.com/images/hall91_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1005",
+      "name": "Birthday Hall 5",
+      "type": "Birthday",
+      "capacity": 146,
+      "basePricePerDay": 154303,
+      "basePricePerGuest": 1692,
+      "amenities": [
+        "Parking",
+        "Decoration",
+        "Garden",
+        "Lighting"
+      ],
+      "images": [
+        "https://example.com/images/hall5_1.jpg",
+        "https://example.com/images/hall5_2.jpg",
+        "https://example.com/images/hall5_3.jpg",
+        "https://example.com/images/hall5_4.jpg",
+        "https://example.com/images/hall5_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1089",
+      "name": "Wedding Hall 89",
+      "type": "Wedding",
+      "capacity": 314,
+      "basePricePerDay": 116116,
+      "basePricePerGuest": 3032,
+      "amenities": [
+        "AC",
+        "Garden",
+        "Sound System",
+        "Stage"
+      ],
+      "images": [
+        "https://example.com/images/hall89_1.jpg",
+        "https://example.com/images/hall89_2.jpg",
+        "https://example.com/images/hall89_3.jpg",
+        "https://example.com/images/hall89_4.jpg",
+        "https://example.com/images/hall89_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1067",
+      "name": "Corporate Hall 67",
+      "type": "Corporate",
+      "capacity": 145,
+      "basePricePerDay": 185752,
+      "basePricePerGuest": 3952,
+      "amenities": [
+        "AC",
+        "Decoration",
+        "Stage",
+        "Garden"
+      ],
+      "images": [
+        "https://example.com/images/hall67_1.jpg",
+        "https://example.com/images/hall67_2.jpg",
+        "https://example.com/images/hall67_3.jpg",
+        "https://example.com/images/hall67_4.jpg",
+        "https://example.com/images/hall67_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1079",
+      "name": "Birthday Hall 79",
+      "type": "Birthday",
+      "capacity": 115,
+      "basePricePerDay": 74590,
+      "basePricePerGuest": 284,
+      "amenities": [
+        "Stage",
+        "Decoration",
+        "Parking",
+        "Lighting"
+      ],
+      "images": [
+        "https://example.com/images/hall79_1.jpg",
+        "https://example.com/images/hall79_2.jpg",
+        "https://example.com/images/hall79_3.jpg",
+        "https://example.com/images/hall79_4.jpg",
+        "https://example.com/images/hall79_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1033",
+      "name": "Luxury Hall 33",
+      "type": "Luxury",
+      "capacity": 192,
+      "basePricePerDay": 172505,
+      "basePricePerGuest": 3322,
+      "amenities": [
+        "Parking",
+        "Decoration",
+        "AC",
+        "WiFi"
+      ],
+      "images": [
+        "https://example.com/images/hall33_1.jpg",
+        "https://example.com/images/hall33_2.jpg",
+        "https://example.com/images/hall33_3.jpg",
+        "https://example.com/images/hall33_4.jpg",
+        "https://example.com/images/hall33_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1035",
+      "name": "Birthday Hall 35",
+      "type": "Birthday",
+      "capacity": 202,
+      "basePricePerDay": 223801,
+      "basePricePerGuest": 940,
+      "amenities": [
+        "Garden",
+        "Lighting",
+        "Sound System",
+        "Decoration"
+      ],
+      "images": [
+        "https://example.com/images/hall35_1.jpg",
+        "https://example.com/images/hall35_2.jpg",
+        "https://example.com/images/hall35_3.jpg",
+        "https://example.com/images/hall35_4.jpg",
+        "https://example.com/images/hall35_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1061",
+      "name": "Corporate Hall 61",
+      "type": "Corporate",
+      "capacity": 215,
+      "basePricePerDay": 167134,
+      "basePricePerGuest": 3288,
+      "amenities": [
+        "Parking",
+        "Decoration",
+        "Lighting",
+        "AC"
+      ],
+      "images": [
+        "https://example.com/images/hall61_1.jpg",
+        "https://example.com/images/hall61_2.jpg",
+        "https://example.com/images/hall61_3.jpg",
+        "https://example.com/images/hall61_4.jpg",
+        "https://example.com/images/hall61_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1099",
+      "name": "Corporate Hall 99",
+      "type": "Corporate",
+      "capacity": 135,
+      "basePricePerDay": 180806,
+      "basePricePerGuest": 2984,
+      "amenities": [
+        "Garden",
+        "Parking",
+        "Lighting",
+        "AC"
+      ],
+      "images": [
+        "https://example.com/images/hall99_1.jpg",
+        "https://example.com/images/hall99_2.jpg",
+        "https://example.com/images/hall99_3.jpg",
+        "https://example.com/images/hall99_4.jpg",
+        "https://example.com/images/hall99_5.jpg"
+      ]
+    },
+    {
+      "hallId": "H-1019",
+      "name": "Wedding Hall 19",
+      "type": "Wedding",
+      "capacity": 134,
+      "basePricePerDay": 190936,
+      "basePricePerGuest": 2906,
+      "amenities": [
+        "Decoration",
+        "Sound System",
+        "Parking",
+        "AC"
+      ],
+      "images": [
+        "https://example.com/images/hall19_1.jpg",
+        "https://example.com/images/hall19_2.jpg",
+        "https://example.com/images/hall19_3.jpg",
+        "https://example.com/images/hall19_4.jpg",
+        "https://example.com/images/hall19_5.jpg"
+      ]
+    }
+  ],
+  "foodPackages": [
+    {
+      "packageName": "Basic",
+      "items": [
+        "Rice",
+        "Soup"
+      ],
+      "pricePerGuest": 924
+    },
+    {
+      "packageName": "Standard",
+      "items": [
+        "Chicken",
+        "Rice",
+        "Drinks"
+      ],
+      "pricePerGuest": 181
+    },
+    {
+      "packageName": "Premium",
+      "items": [
+        "Soup"
+      ],
+      "pricePerGuest": 2257
+    }
+  ],
+  "promotions": [
+    {
+      "promoId": "P-1",
+      "title": "Spring Sale 1",
+      "discountPercentage": 20
+    },
+    {
+      "promoId": "P-2",
+      "title": "Festive Offer 2",
+      "discountPercentage": 19
+    },
+    {
+      "promoId": "P-3",
+      "title": "Weekend Discount 3",
+      "discountPercentage": 10
+    },
+    {
+      "promoId": "P-4",
+      "title": "Early Bird 4",
+      "discountPercentage": 14
+    },
+    {
+      "promoId": "P-5",
+      "title": "VIP Package 5",
+      "discountPercentage": 6
+    },
+    {
+      "promoId": "P-6",
+      "title": "Spring Sale 6",
+      "discountPercentage": 15
+    },
+    {
+      "promoId": "P-7",
+      "title": "Festive Offer 7",
+      "discountPercentage": 20
+    },
+    {
+      "promoId": "P-8",
+      "title": "Weekend Discount 8",
+      "discountPercentage": 16
+    },
+    {
+      "promoId": "P-9",
+      "title": "Early Bird 9",
+      "discountPercentage": 7
+    },
+    {
+      "promoId": "P-10",
+      "title": "VIP Package 10",
+      "discountPercentage": 11
+    },
+    {
+      "promoId": "P-11",
+      "title": "Spring Sale 11",
+      "discountPercentage": 11
+    },
+    {
+      "promoId": "P-12",
+      "title": "Festive Offer 12",
+      "discountPercentage": 19
+    },
+    {
+      "promoId": "P-13",
+      "title": "Weekend Discount 13",
+      "discountPercentage": 16
+    },
+    {
+      "promoId": "P-14",
+      "title": "Early Bird 14",
+      "discountPercentage": 15
+    },
+    {
+      "promoId": "P-15",
+      "title": "VIP Package 15",
+      "discountPercentage": 20
+    },
+    {
+      "promoId": "P-16",
+      "title": "Spring Sale 16",
+      "discountPercentage": 16
+    },
+    {
+      "promoId": "P-17",
+      "title": "Festive Offer 17",
+      "discountPercentage": 0
+    },
+    {
+      "promoId": "P-18",
+      "title": "Weekend Discount 18",
+      "discountPercentage": 5
+    },
+    {
+      "promoId": "P-19",
+      "title": "Early Bird 19",
+      "discountPercentage": 4
+    },
+    {
+      "promoId": "P-20",
+      "title": "VIP Package 20",
+      "discountPercentage": 8
+    }
+  ]
+}
