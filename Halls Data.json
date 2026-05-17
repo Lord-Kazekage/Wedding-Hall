@@ -1,0 +1,750 @@
+{
+  "H-1001": {
+    "hallId": "H-1001",
+    "name": "The Obsidian Ballroom",
+    "type": "Luxury",
+    "description": "A contemporary architectural masterpiece featuring double-height ceilings and panoramic floor-to-ceiling glass facets.",
+    "capacity": 500,
+    "basePricePerDay": 130786,
+    "basePricePerGuest": 1323,
+    "features": [
+      "4K AV Systems",
+      "Private VIP Lounge",
+      "Climate Controlled",
+      "Valet Parking"
+    ],
+    "hallPoliciesAndRules": [
+      "Bookings must be confirmed at least 14 days prior to the event date with a 30% initial deposit.",
+      "Noise levels must comply with local municipal regulations after 11:00 PM.",
+      "External catering is permitted only upon prior approval of health and safety certifications."
+    ],
+    "images": [
+      "assets/images/halls/hall1_1.jpg",
+      "assets/images/halls/hall1_2.jpg",
+      "assets/images/halls/hall1_3.jpg"
+    ],
+    "availableDates": ["2026-05-20", "2026-06-21", "2026-07-18"]
+  },
+
+  "H-1002": {
+    "hallId": "H-1002",
+    "name": "Skyline Suite",
+    "type": "Corporate Theater",
+    "description": "A premium corporate venue designed for conferences and executive business gatherings.",
+    "capacity": 320,
+    "basePricePerDay": 98500,
+    "basePricePerGuest": 1150,
+    "features": [
+      "Conference Stage",
+      "Projector Screens",
+      "Central AC",
+      "High-Speed WiFi"
+    ],
+    "hallPoliciesAndRules": [
+      "Full payment must be completed before the event date.",
+      "Smoking is prohibited inside the venue.",
+      "Any property damage will be charged separately."
+    ],
+    "images": [
+      "assets/images/halls/hall2_1.jpg",
+      "assets/images/halls/hall2_2.jpg"
+    ],
+    "availableDates": ["2026-06-02", "2026-07-01", "2026-08-10"]
+  },
+
+  "H-1003": {
+    "hallId": "H-1003",
+    "name": "Grand Crystal Arena",
+    "type": "Gala Venue",
+    "description": "An elegant gala hall featuring crystal lighting and luxurious interior decor.",
+    "capacity": 650,
+    "basePricePerDay": 145000,
+    "basePricePerGuest": 1800,
+    "features": [
+      "Luxury Lighting",
+      "VIP Entrance",
+      "Premium Sound",
+      "Valet Parking"
+    ],
+    "hallPoliciesAndRules": [
+      "Advance booking deposit is mandatory.",
+      "Outside decor requires approval.",
+      "Parking rules must be followed by guests."
+    ],
+    "images": [
+      "assets/images/halls/hall3_1.jpg",
+      "assets/images/halls/hall3_2.jpg"
+    ],
+    "availableDates": ["2026-06-10", "2026-07-14", "2026-08-09"]
+  },
+
+  "H-1004": {
+    "hallId": "H-1004",
+    "name": "Royal Orchid Hall",
+    "type": "Wedding Ballroom",
+    "description": "A royal-style ballroom perfect for weddings and luxury receptions.",
+    "capacity": 700,
+    "basePricePerDay": 158000,
+    "basePricePerGuest": 1890,
+    "features": [
+      "Bridal Room",
+      "Premium Stage",
+      "Central Cooling",
+      "LED Walls"
+    ],
+    "hallPoliciesAndRules": [
+      "Music must stop before midnight.",
+      "Decor setup allowed 6 hours before event.",
+      "Security staff instructions must be followed."
+    ],
+    "images": [
+      "assets/images/halls/hall4_1.jpg",
+      "assets/images/halls/hall4_2.jpg"
+    ],
+    "availableDates": ["2026-05-25", "2026-06-18", "2026-08-15"]
+  },
+
+  "H-1005": {
+    "hallId": "H-1005",
+    "name": "Velvet Crown Venue",
+    "type": "Exhibition Space",
+    "description": "A modern venue suitable for exhibitions, launches, and creative showcases.",
+    "capacity": 420,
+    "basePricePerDay": 99000,
+    "basePricePerGuest": 1100,
+    "features": ["4K Screens", "Fast WiFi", "Security Systems", "Parking Area"],
+    "hallPoliciesAndRules": [
+      "Outside food is not permitted.",
+      "CNIC is required for booking.",
+      "Equipment safety rules must be followed."
+    ],
+    "images": [
+      "assets/images/halls/hall5_1.jpg",
+      "assets/images/halls/hall5_2.jpg"
+    ],
+    "availableDates": ["2026-06-08", "2026-07-20", "2026-08-02"]
+  },
+
+  "H-1006": {
+    "hallId": "H-1006",
+    "name": "Emerald Vista Pavilion",
+    "type": "Garden Venue",
+    "description": "An outdoor-inspired venue with elegant landscaping and open-air atmosphere.",
+    "capacity": 540,
+    "basePricePerDay": 121000,
+    "basePricePerGuest": 1450,
+    "features": [
+      "Garden Lighting",
+      "Outdoor Seating",
+      "VIP Lounge",
+      "Live BBQ Area"
+    ],
+    "hallPoliciesAndRules": [
+      "Outdoor fireworks are prohibited.",
+      "Guests must use designated parking areas.",
+      "Late-night events require approval."
+    ],
+    "images": [
+      "assets/images/halls/hall6_1.jpg",
+      "assets/images/halls/hall6_2.jpg"
+    ],
+    "availableDates": ["2026-05-14", "2026-07-11", "2026-09-01"]
+  },
+
+  "H-1007": {
+    "hallId": "H-1007",
+    "name": "Sapphire Garden Venue",
+    "type": "Wedding Venue",
+    "description": "A luxurious garden venue designed for elegant outdoor weddings.",
+    "capacity": 610,
+    "basePricePerDay": 149000,
+    "basePricePerGuest": 1760,
+    "features": [
+      "Floral Decor",
+      "Open Garden",
+      "Photography Spots",
+      "Valet Parking"
+    ],
+    "hallPoliciesAndRules": [
+      "Fresh flower decor must be approved.",
+      "Children must remain supervised.",
+      "Music volume restrictions apply."
+    ],
+    "images": [
+      "assets/images/halls/hall7_1.jpg",
+      "assets/images/halls/hall7_2.jpg"
+    ],
+    "availableDates": ["2026-06-17", "2026-07-23", "2026-08-28"]
+  },
+
+  "H-1008": {
+    "hallId": "H-1008",
+    "name": "Ivory Luxe Ballroom",
+    "type": "Luxury Ballroom",
+    "description": "An ultra-modern ballroom with premium lighting and luxury seating arrangements.",
+    "capacity": 750,
+    "basePricePerDay": 172000,
+    "basePricePerGuest": 2100,
+    "features": [
+      "Italian Flooring",
+      "Crystal Chandeliers",
+      "Luxury Seating",
+      "VIP Dining"
+    ],
+    "hallPoliciesAndRules": [
+      "Decor damages will be charged.",
+      "Alcohol is not permitted.",
+      "Event timing must be followed strictly."
+    ],
+    "images": [
+      "assets/images/halls/hall8_1.jpg",
+      "assets/images/halls/hall8_2.jpg"
+    ],
+    "availableDates": ["2026-05-30", "2026-07-07", "2026-08-16"]
+  },
+
+  "H-1009": {
+    "hallId": "H-1009",
+    "name": "Golden Mirage Center",
+    "type": "Workshop Studio",
+    "description": "A creative studio-style venue ideal for workshops and interactive sessions.",
+    "capacity": 240,
+    "basePricePerDay": 76000,
+    "basePricePerGuest": 850,
+    "features": [
+      "Workshop Tables",
+      "Smart Screens",
+      "Coffee Lounge",
+      "Fast Internet"
+    ],
+    "hallPoliciesAndRules": [
+      "Workshop equipment must be handled carefully.",
+      "Advance schedule submission is required.",
+      "No wall drilling or modifications allowed."
+    ],
+    "images": [
+      "assets/images/halls/hall9_1.jpg",
+      "assets/images/halls/hall9_2.jpg"
+    ],
+    "availableDates": ["2026-06-12", "2026-08-04", "2026-09-11"]
+  },
+
+  "H-1010": {
+    "hallId": "H-1010",
+    "name": "Diamond Elite Hall",
+    "type": "Premium Venue",
+    "description": "A sophisticated premium hall crafted for elite celebrations and corporate dinners.",
+    "capacity": 580,
+    "basePricePerDay": 139000,
+    "basePricePerGuest": 1690,
+    "features": [
+      "Luxury Dining",
+      "Private Lounge",
+      "Smart Lighting",
+      "AC Hall"
+    ],
+    "hallPoliciesAndRules": [
+      "Bookings are non-refundable within 7 days.",
+      "Security checks are mandatory.",
+      "Outside sound systems are not allowed."
+    ],
+    "images": [
+      "assets/images/halls/hall10_1.jpg",
+      "assets/images/halls/hall10_2.jpg"
+    ],
+    "availableDates": ["2026-05-19", "2026-07-15", "2026-08-30"]
+  },
+  "H-1011": {
+    "hallId": "H-1011",
+    "name": "Celestial Pearl Hall",
+    "type": "Banquet Hall",
+    "description": "A stylish banquet venue with premium interiors and elegant lighting design.",
+    "capacity": 460,
+    "basePricePerDay": 118000,
+    "basePricePerGuest": 1420,
+    "features": ["Luxury Seating", "LED Screens", "Sound System", "VIP Room"],
+    "hallPoliciesAndRules": [
+      "Booking confirmation requires advance payment.",
+      "No outside DJs allowed.",
+      "Guests must follow parking guidelines."
+    ],
+    "images": [
+      "assets/images/halls/hall11_1.jpg",
+      "assets/images/halls/hall11_2.jpg"
+    ],
+    "availableDates": ["2026-06-05", "2026-07-28", "2026-09-12"]
+  },
+
+  "H-1012": {
+    "hallId": "H-1012",
+    "name": "Moonlight Prestige Arena",
+    "type": "Event Arena",
+    "description": "A spacious event arena designed for luxury celebrations and concerts.",
+    "capacity": 820,
+    "basePricePerDay": 186000,
+    "basePricePerGuest": 2250,
+    "features": [
+      "Concert Lighting",
+      "Massive Stage",
+      "VIP Balcony",
+      "Parking Space"
+    ],
+    "hallPoliciesAndRules": [
+      "Large events require additional security.",
+      "Fire safety rules must be followed.",
+      "Food wastage penalties may apply."
+    ],
+    "images": [
+      "assets/images/halls/hall12_1.jpg",
+      "assets/images/halls/hall12_2.jpg"
+    ],
+    "availableDates": ["2026-05-27", "2026-08-05", "2026-09-19"]
+  },
+
+  "H-1013": {
+    "hallId": "H-1013",
+    "name": "Aurora Heights Venue",
+    "type": "Reception Hall",
+    "description": "A sophisticated reception venue with modern architectural aesthetics.",
+    "capacity": 390,
+    "basePricePerDay": 104000,
+    "basePricePerGuest": 1210,
+    "features": [
+      "Reception Lounge",
+      "Decor Lighting",
+      "Premium AC",
+      "Photography Area"
+    ],
+    "hallPoliciesAndRules": [
+      "Late-night extensions require approval.",
+      "Children must remain supervised.",
+      "Smoking is prohibited indoors."
+    ],
+    "images": [
+      "assets/images/halls/hall13_1.jpg",
+      "assets/images/halls/hall13_2.jpg"
+    ],
+    "availableDates": ["2026-06-14", "2026-07-29", "2026-08-22"]
+  },
+
+  "H-1014": {
+    "hallId": "H-1014",
+    "name": "Imperial Sapphire Court",
+    "type": "Luxury Venue",
+    "description": "An upscale venue offering premium hospitality and luxury ambiance.",
+    "capacity": 680,
+    "basePricePerDay": 164000,
+    "basePricePerGuest": 1980,
+    "features": ["Royal Entrance", "Luxury Dining", "LED Walls", "VIP Suites"],
+    "hallPoliciesAndRules": [
+      "Alcohol consumption is prohibited.",
+      "Outside decorators require approval.",
+      "Security deposit is mandatory."
+    ],
+    "images": [
+      "assets/images/halls/hall14_1.jpg",
+      "assets/images/halls/hall14_2.jpg"
+    ],
+    "availableDates": ["2026-05-31", "2026-07-09", "2026-08-18"]
+  },
+
+  "H-1015": {
+    "hallId": "H-1015",
+    "name": "Silver Horizon Hall",
+    "type": "Conference Venue",
+    "description": "A modern conference venue ideal for seminars and professional meetings.",
+    "capacity": 350,
+    "basePricePerDay": 92000,
+    "basePricePerGuest": 990,
+    "features": ["Projectors", "Meeting Rooms", "WiFi Access", "Coffee Lounge"],
+    "hallPoliciesAndRules": [
+      "Corporate bookings require valid company details.",
+      "No loud music permitted.",
+      "Equipment damage charges apply."
+    ],
+    "images": [
+      "assets/images/halls/hall15_1.jpg",
+      "assets/images/halls/hall15_2.jpg"
+    ],
+    "availableDates": ["2026-06-11", "2026-08-07", "2026-09-16"]
+  },
+
+  "H-1016": {
+    "hallId": "H-1016",
+    "name": "Opal Serenity Pavilion",
+    "type": "Garden Ballroom",
+    "description": "A semi-open pavilion surrounded by elegant greenery and ambient lighting.",
+    "capacity": 530,
+    "basePricePerDay": 126000,
+    "basePricePerGuest": 1540,
+    "features": [
+      "Garden Decor",
+      "Outdoor Dining",
+      "Luxury Stage",
+      "Live Kitchen"
+    ],
+    "hallPoliciesAndRules": [
+      "Outdoor music restrictions apply.",
+      "Weather-related changes are client responsibility.",
+      "Advance booking required."
+    ],
+    "images": [
+      "assets/images/halls/hall16_1.jpg",
+      "assets/images/halls/hall16_2.jpg"
+    ],
+    "availableDates": ["2026-05-22", "2026-07-16", "2026-09-03"]
+  },
+
+  "H-1017": {
+    "hallId": "H-1017",
+    "name": "Majestic Ember Hall",
+    "type": "Celebration Venue",
+    "description": "A premium celebration venue with artistic interiors and advanced sound systems.",
+    "capacity": 610,
+    "basePricePerDay": 151000,
+    "basePricePerGuest": 1810,
+    "features": [
+      "Premium Audio",
+      "Stage Lighting",
+      "VIP Access",
+      "Designer Decor"
+    ],
+    "hallPoliciesAndRules": [
+      "Bookings are non-transferable.",
+      "Event timing must be respected.",
+      "Outside catering not allowed."
+    ],
+    "images": [
+      "assets/images/halls/hall17_1.jpg",
+      "assets/images/halls/hall17_2.jpg"
+    ],
+    "availableDates": ["2026-06-03", "2026-08-13", "2026-09-25"]
+  },
+
+  "H-1018": {
+    "hallId": "H-1018",
+    "name": "Platinum Garden Estate",
+    "type": "Outdoor Venue",
+    "description": "An elegant outdoor estate perfect for luxury receptions and family events.",
+    "capacity": 720,
+    "basePricePerDay": 168000,
+    "basePricePerGuest": 2060,
+    "features": ["Open Lawn", "Decor Lights", "Luxury Entrance", "VIP Seating"],
+    "hallPoliciesAndRules": [
+      "Noise regulations apply after 10 PM.",
+      "Open flames are prohibited.",
+      "Parking management is mandatory."
+    ],
+    "images": [
+      "assets/images/halls/hall18_1.jpg",
+      "assets/images/halls/hall18_2.jpg"
+    ],
+    "availableDates": ["2026-05-29", "2026-07-30", "2026-08-26"]
+  },
+
+  "H-1019": {
+    "hallId": "H-1019",
+    "name": "Radiant Echo Venue",
+    "type": "Music Hall",
+    "description": "A vibrant venue optimized for concerts, performances, and entertainment events.",
+    "capacity": 480,
+    "basePricePerDay": 119500,
+    "basePricePerGuest": 1380,
+    "features": [
+      "Concert Speakers",
+      "Stage Effects",
+      "Backstage Rooms",
+      "Parking Facility"
+    ],
+    "hallPoliciesAndRules": [
+      "Event permits are required for concerts.",
+      "Security personnel must be approved.",
+      "Sound checks allowed only during daytime."
+    ],
+    "images": [
+      "assets/images/halls/hall19_1.jpg",
+      "assets/images/halls/hall19_2.jpg"
+    ],
+    "availableDates": ["2026-06-09", "2026-08-01", "2026-09-08"]
+  },
+
+  "H-1020": {
+    "hallId": "H-1020",
+    "name": "Crown Vista Ballroom",
+    "type": "Royal Ballroom",
+    "description": "A magnificent ballroom with royal architecture and luxury decor.",
+    "capacity": 790,
+    "basePricePerDay": 178000,
+    "basePricePerGuest": 2190,
+    "features": [
+      "Golden Chandeliers",
+      "VIP Dining",
+      "Royal Stage",
+      "Luxury Suites"
+    ],
+    "hallPoliciesAndRules": [
+      "Advance payment is mandatory.",
+      "Pets are not allowed.",
+      "Guests must follow venue timings."
+    ],
+    "images": [
+      "assets/images/halls/hall20_1.jpg",
+      "assets/images/halls/hall20_2.jpg"
+    ],
+    "availableDates": ["2026-06-06", "2026-07-18", "2026-09-14"]
+  },
+  "H-1021": {
+    "hallId": "H-1021",
+    "name": "Azure Dynasty Hall",
+    "type": "Royal Venue",
+    "description": "A majestic venue featuring royal-themed interiors and premium hospitality services.",
+    "capacity": 640,
+    "basePricePerDay": 162500,
+    "basePricePerGuest": 1940,
+    "features": [
+      "Royal Seating",
+      "VIP Balcony",
+      "Luxury Chandeliers",
+      "Private Dining"
+    ],
+    "hallPoliciesAndRules": [
+      "Decor modifications require approval.",
+      "Outside beverages are prohibited.",
+      "Security deposits are refundable after inspection."
+    ],
+    "images": [
+      "assets/images/halls/hall21_1.jpg",
+      "assets/images/halls/hall21_2.jpg"
+    ],
+    "availableDates": ["2026-06-15", "2026-08-11", "2026-09-27"]
+  },
+
+  "H-1022": {
+    "hallId": "H-1022",
+    "name": "Infinity Pearl Pavilion",
+    "type": "Luxury Pavilion",
+    "description": "An open-style luxury pavilion crafted for premium outdoor celebrations.",
+    "capacity": 560,
+    "basePricePerDay": 133000,
+    "basePricePerGuest": 1605,
+    "features": [
+      "Open Air Seating",
+      "Garden Decor",
+      "Live BBQ",
+      "LED Ambience"
+    ],
+    "hallPoliciesAndRules": [
+      "Outdoor fire elements are restricted.",
+      "Noise control policies apply after 11 PM.",
+      "Parking staff instructions must be followed."
+    ],
+    "images": [
+      "assets/images/halls/hall22_1.jpg",
+      "assets/images/halls/hall22_2.jpg"
+    ],
+    "availableDates": ["2026-05-24", "2026-07-21", "2026-09-06"]
+  },
+
+  "H-1023": {
+    "hallId": "H-1023",
+    "name": "Velora Prestige Center",
+    "type": "Premium Center",
+    "description": "A high-end multipurpose center suitable for elite private and corporate events.",
+    "capacity": 430,
+    "basePricePerDay": 111000,
+    "basePricePerGuest": 1295,
+    "features": [
+      "Executive Lounge",
+      "Projector Setup",
+      "Luxury Interiors",
+      "Central AC"
+    ],
+    "hallPoliciesAndRules": [
+      "Guests must carry valid identification.",
+      "Damage to equipment will incur charges.",
+      "Outside sound systems are not allowed."
+    ],
+    "images": [
+      "assets/images/halls/hall23_1.jpg",
+      "assets/images/halls/hall23_2.jpg"
+    ],
+    "availableDates": ["2026-06-01", "2026-08-08", "2026-09-21"]
+  },
+
+  "H-1024": {
+    "hallId": "H-1024",
+    "name": "Crystal Nova Ballroom",
+    "type": "Luxury Ballroom",
+    "description": "A glamorous ballroom illuminated with crystal lighting and elegant architecture.",
+    "capacity": 770,
+    "basePricePerDay": 181500,
+    "basePricePerGuest": 2280,
+    "features": [
+      "Crystal Decor",
+      "Luxury Stage",
+      "VIP Lounge",
+      "Smart Lighting"
+    ],
+    "hallPoliciesAndRules": [
+      "Music must end before midnight.",
+      "Decor setup allowed only during reserved hours.",
+      "Food safety regulations must be followed."
+    ],
+    "images": [
+      "assets/images/halls/hall24_1.jpg",
+      "assets/images/halls/hall24_2.jpg"
+    ],
+    "availableDates": ["2026-05-28", "2026-07-25", "2026-08-31"]
+  },
+
+  "H-1025": {
+    "hallId": "H-1025",
+    "name": "Emerald Symphony Hall",
+    "type": "Concert Venue",
+    "description": "A dynamic venue designed for live performances and musical productions.",
+    "capacity": 520,
+    "basePricePerDay": 127500,
+    "basePricePerGuest": 1510,
+    "features": [
+      "Concert Stage",
+      "Acoustic Design",
+      "VIP Entry",
+      "Backstage Area"
+    ],
+    "hallPoliciesAndRules": [
+      "Concert permits are required.",
+      "Only approved vendors may operate inside.",
+      "Emergency exits must remain accessible."
+    ],
+    "images": [
+      "assets/images/halls/hall25_1.jpg",
+      "assets/images/halls/hall25_2.jpg"
+    ],
+    "availableDates": ["2026-06-19", "2026-08-17", "2026-09-29"]
+  },
+
+  "H-1026": {
+    "hallId": "H-1026",
+    "name": "Golden Aurora Venue",
+    "type": "Wedding Hall",
+    "description": "A premium wedding venue featuring elegant decor and grand entrance styling.",
+    "capacity": 690,
+    "basePricePerDay": 166800,
+    "basePricePerGuest": 2025,
+    "features": ["Bridal Suite", "Luxury Entrance", "LED Walls", "Fine Dining"],
+    "hallPoliciesAndRules": [
+      "Advance deposits are non-refundable.",
+      "Fresh floral arrangements require approval.",
+      "Event schedule must be strictly followed."
+    ],
+    "images": [
+      "assets/images/halls/hall26_1.jpg",
+      "assets/images/halls/hall26_2.jpg"
+    ],
+    "availableDates": ["2026-05-26", "2026-07-13", "2026-09-10"]
+  },
+
+  "H-1027": {
+    "hallId": "H-1027",
+    "name": "Regal Mirage Estate",
+    "type": "Estate Venue",
+    "description": "A sophisticated estate venue ideal for luxury gatherings and receptions.",
+    "capacity": 605,
+    "basePricePerDay": 148300,
+    "basePricePerGuest": 1775,
+    "features": [
+      "Estate Garden",
+      "Luxury Seating",
+      "Private Suites",
+      "Security System"
+    ],
+    "hallPoliciesAndRules": [
+      "Guest vehicles must use designated parking.",
+      "Outside entertainment requires permission.",
+      "Property damage charges apply."
+    ],
+    "images": [
+      "assets/images/halls/hall27_1.jpg",
+      "assets/images/halls/hall27_2.jpg"
+    ],
+    "availableDates": ["2026-06-07", "2026-08-20", "2026-09-24"]
+  },
+
+  "H-1028": {
+    "hallId": "H-1028",
+    "name": "Titanium Elite Pavilion",
+    "type": "Corporate Pavilion",
+    "description": "A modern pavilion built for executive conferences and corporate networking events.",
+    "capacity": 310,
+    "basePricePerDay": 94800,
+    "basePricePerGuest": 1085,
+    "features": [
+      "Conference Tables",
+      "Presentation Screens",
+      "WiFi Access",
+      "Coffee Station"
+    ],
+    "hallPoliciesAndRules": [
+      "Corporate bookings require valid documentation.",
+      "No unauthorized recordings allowed.",
+      "Hall equipment must be handled responsibly."
+    ],
+    "images": [
+      "assets/images/halls/hall28_1.jpg",
+      "assets/images/halls/hall28_2.jpg"
+    ],
+    "availableDates": ["2026-06-13", "2026-08-03", "2026-09-18"]
+  },
+
+  "H-1029": {
+    "hallId": "H-1029",
+    "name": "Lunar Crest Ballroom",
+    "type": "Reception Ballroom",
+    "description": "A contemporary ballroom featuring elegant reception spaces and artistic interiors.",
+    "capacity": 470,
+    "basePricePerDay": 116700,
+    "basePricePerGuest": 1365,
+    "features": [
+      "Designer Decor",
+      "Ambient Lighting",
+      "Luxury Lounge",
+      "Photography Zone"
+    ],
+    "hallPoliciesAndRules": [
+      "Smoking is prohibited inside the hall.",
+      "Decor setup timings must be followed.",
+      "Food service must end before venue closing."
+    ],
+    "images": [
+      "assets/images/halls/hall29_1.jpg",
+      "assets/images/halls/hall29_2.jpg"
+    ],
+    "availableDates": ["2026-05-21", "2026-07-31", "2026-09-15"]
+  },
+
+  "H-1030": {
+    "hallId": "H-1030",
+    "name": "Zenith Royale Center",
+    "type": "Grand Venue",
+    "description": "An elite grand venue tailored for luxury events, receptions, and gala nights.",
+    "capacity": 840,
+    "basePricePerDay": 192000,
+    "basePricePerGuest": 2390,
+    "features": [
+      "Royal Stage",
+      "VIP Dining",
+      "Luxury Lighting",
+      "Premium Sound"
+    ],
+    "hallPoliciesAndRules": [
+      "Bookings must be finalized 10 days before event.",
+      "Outside catering is prohibited.",
+      "Guests must comply with safety regulations."
+    ],
+    "images": [
+      "assets/images/halls/hall30_1.jpg",
+      "assets/images/halls/hall30_2.jpg"
+    ],
+    "availableDates": ["2026-06-16", "2026-08-14", "2026-09-30"]
+  }
+}
