@@ -18,11 +18,8 @@
       "Noise levels must comply with local municipal regulations after 11:00 PM.",
       "External catering is permitted only upon prior approval of health and safety certifications."
     ],
-    "images": [
-      "assets/images/halls/hall1_1.jpg",
-      "assets/images/halls/hall1_2.jpg",
-      "assets/images/halls/hall1_3.jpg"
-    ],
+  
+    "images":"./assets/hall images/istockphoto-123052454-612x612.jpg"
     "availableDates": ["2026-05-20", "2026-06-21", "2026-07-18"]
   },
 
@@ -45,10 +42,7 @@
       "Smoking is prohibited inside the venue.",
       "Any property damage will be charged separately."
     ],
-    "images": [
-      "assets/images/halls/hall2_1.jpg",
-      "assets/images/halls/hall2_2.jpg"
-    ],
+   "images":"./assets/hall images/istockphoto-157181606-612x612.jpg",
     "availableDates": ["2026-06-02", "2026-07-01", "2026-08-10"]
   },
 
@@ -71,10 +65,7 @@
       "Outside decor requires approval.",
       "Parking rules must be followed by guests."
     ],
-    "images": [
-      "assets/images/halls/hall3_1.jpg",
-      "assets/images/halls/hall3_2.jpg"
-    ],
+   "images":"./assets/hall images/istockphoto-157181948-612x612.jpg",
     "availableDates": ["2026-06-10", "2026-07-14", "2026-08-09"]
   },
 
@@ -97,10 +88,7 @@
       "Decor setup allowed 6 hours before event.",
       "Security staff instructions must be followed."
     ],
-    "images": [
-      "assets/images/halls/hall4_1.jpg",
-      "assets/images/halls/hall4_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-157192565-612x612.jpg",
     "availableDates": ["2026-05-25", "2026-06-18", "2026-08-15"]
   },
 
@@ -118,10 +106,7 @@
       "CNIC is required for booking.",
       "Equipment safety rules must be followed."
     ],
-    "images": [
-      "assets/images/halls/hall5_1.jpg",
-      "assets/images/halls/hall5_2.jpg"
-    ],
+ "images":"./assets/hall images/istockphoto-157194996-612x612.jpg",
     "availableDates": ["2026-06-08", "2026-07-20", "2026-08-02"]
   },
 
@@ -144,10 +129,7 @@
       "Guests must use designated parking areas.",
       "Late-night events require approval."
     ],
-    "images": [
-      "assets/images/halls/hall6_1.jpg",
-      "assets/images/halls/hall6_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-157315058-612x612.jpg",
     "availableDates": ["2026-05-14", "2026-07-11", "2026-09-01"]
   },
 
@@ -170,10 +152,7 @@
       "Children must remain supervised.",
       "Music volume restrictions apply."
     ],
-    "images": [
-      "assets/images/halls/hall7_1.jpg",
-      "assets/images/halls/hall7_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-157315860-612x612.jpg",
     "availableDates": ["2026-06-17", "2026-07-23", "2026-08-28"]
   },
 
@@ -196,10 +175,7 @@
       "Alcohol is not permitted.",
       "Event timing must be followed strictly."
     ],
-    "images": [
-      "assets/images/halls/hall8_1.jpg",
-      "assets/images/halls/hall8_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-157377031-612x612.jpg",
     "availableDates": ["2026-05-30", "2026-07-07", "2026-08-16"]
   },
 
@@ -222,10 +198,7 @@
       "Advance schedule submission is required.",
       "No wall drilling or modifications allowed."
     ],
-    "images": [
-      "assets/images/halls/hall9_1.jpg",
-      "assets/images/halls/hall9_2.jpg"
-    ],
+    "images":"./assets/hall images/istockphoto-172412393-612x612.jpg",
     "availableDates": ["2026-06-12", "2026-08-04", "2026-09-11"]
   },
 
@@ -248,10 +221,7 @@
       "Security checks are mandatory.",
       "Outside sound systems are not allowed."
     ],
-    "images": [
-      "assets/images/halls/hall10_1.jpg",
-      "assets/images/halls/hall10_2.jpg"
-    ],
+   "images":"./assets/hall images/istockphoto-177133902-612x612.jpg",
     "availableDates": ["2026-05-19", "2026-07-15", "2026-08-30"]
   },
   "H-1011": {
@@ -268,10 +238,7 @@
       "No outside DJs allowed.",
       "Guests must follow parking guidelines."
     ],
-    "images": [
-      "assets/images/halls/hall11_1.jpg",
-      "assets/images/halls/hall11_2.jpg"
-    ],
+   "images":"./assets/hall images/istockphoto-184104093-612x612.jpg",
     "availableDates": ["2026-06-05", "2026-07-28", "2026-09-12"]
   },
 
@@ -294,10 +261,7 @@
       "Fire safety rules must be followed.",
       "Food wastage penalties may apply."
     ],
-    "images": [
-      "assets/images/halls/hall12_1.jpg",
-      "assets/images/halls/hall12_2.jpg"
-    ],
+ "images":"./assets/hall images/istockphoto-184110279-612x612.jpg",
     "availableDates": ["2026-05-27", "2026-08-05", "2026-09-19"]
   },
 
@@ -320,10 +284,7 @@
       "Children must remain supervised.",
       "Smoking is prohibited indoors."
     ],
-    "images": [
-      "assets/images/halls/hall13_1.jpg",
-      "assets/images/halls/hall13_2.jpg"
-    ],
+ "images":"./assets/hall images/istockphoto-187701752-612x612.jpg",
     "availableDates": ["2026-06-14", "2026-07-29", "2026-08-22"]
   },
 
@@ -341,10 +302,7 @@
       "Outside decorators require approval.",
       "Security deposit is mandatory."
     ],
-    "images": [
-      "assets/images/halls/hall14_1.jpg",
-      "assets/images/halls/hall14_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-450421761-612x612.jpg",
     "availableDates": ["2026-05-31", "2026-07-09", "2026-08-18"]
   },
 
@@ -362,10 +320,7 @@
       "No loud music permitted.",
       "Equipment damage charges apply."
     ],
-    "images": [
-      "assets/images/halls/hall15_1.jpg",
-      "assets/images/halls/hall15_2.jpg"
-    ],
+   "images":"./assets/hall images/istockphoto-454139829-612x612.jpg",
     "availableDates": ["2026-06-11", "2026-08-07", "2026-09-16"]
   },
 
@@ -388,10 +343,7 @@
       "Weather-related changes are client responsibility.",
       "Advance booking required."
     ],
-    "images": [
-      "assets/images/halls/hall16_1.jpg",
-      "assets/images/halls/hall16_2.jpg"
-    ],
+   "images":"./assets/hall images/istockphoto-454363903-612x612.jpg",
     "availableDates": ["2026-05-22", "2026-07-16", "2026-09-03"]
   },
 
@@ -414,10 +366,7 @@
       "Event timing must be respected.",
       "Outside catering not allowed."
     ],
-    "images": [
-      "assets/images/halls/hall17_1.jpg",
-      "assets/images/halls/hall17_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-497952811-612x612.jpg",
     "availableDates": ["2026-06-03", "2026-08-13", "2026-09-25"]
   },
 
@@ -435,10 +384,7 @@
       "Open flames are prohibited.",
       "Parking management is mandatory."
     ],
-    "images": [
-      "assets/images/halls/hall18_1.jpg",
-      "assets/images/halls/hall18_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-515522898-612x612.jpg",
     "availableDates": ["2026-05-29", "2026-07-30", "2026-08-26"]
   },
 
@@ -461,10 +407,7 @@
       "Security personnel must be approved.",
       "Sound checks allowed only during daytime."
     ],
-    "images": [
-      "assets/images/halls/hall19_1.jpg",
-      "assets/images/halls/hall19_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-528361137-612x612.jpg",
     "availableDates": ["2026-06-09", "2026-08-01", "2026-09-08"]
   },
 
@@ -487,10 +430,7 @@
       "Pets are not allowed.",
       "Guests must follow venue timings."
     ],
-    "images": [
-      "assets/images/halls/hall20_1.jpg",
-      "assets/images/halls/hall20_2.jpg"
-    ],
+ "images":"./assets/hall images/istockphoto-528436719-612x612.jpg",
     "availableDates": ["2026-06-06", "2026-07-18", "2026-09-14"]
   },
   "H-1021": {
@@ -512,10 +452,7 @@
       "Outside beverages are prohibited.",
       "Security deposits are refundable after inspection."
     ],
-    "images": [
-      "assets/images/halls/hall21_1.jpg",
-      "assets/images/halls/hall21_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-528780171-612x612.jpg",
     "availableDates": ["2026-06-15", "2026-08-11", "2026-09-27"]
   },
 
@@ -538,10 +475,7 @@
       "Noise control policies apply after 11 PM.",
       "Parking staff instructions must be followed."
     ],
-    "images": [
-      "assets/images/halls/hall22_1.jpg",
-      "assets/images/halls/hall22_2.jpg"
-    ],
+    "images":"./assets/hall images/istockphoto-528809605-612x612.jpg",
     "availableDates": ["2026-05-24", "2026-07-21", "2026-09-06"]
   },
 
@@ -564,10 +498,7 @@
       "Damage to equipment will incur charges.",
       "Outside sound systems are not allowed."
     ],
-    "images": [
-      "assets/images/halls/hall23_1.jpg",
-      "assets/images/halls/hall23_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-529921423-612x612.jpg",
     "availableDates": ["2026-06-01", "2026-08-08", "2026-09-21"]
   },
 
@@ -590,10 +521,7 @@
       "Decor setup allowed only during reserved hours.",
       "Food safety regulations must be followed."
     ],
-    "images": [
-      "assets/images/halls/hall24_1.jpg",
-      "assets/images/halls/hall24_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-530240409-612x612.jpg",
     "availableDates": ["2026-05-28", "2026-07-25", "2026-08-31"]
   },
 
@@ -616,10 +544,7 @@
       "Only approved vendors may operate inside.",
       "Emergency exits must remain accessible."
     ],
-    "images": [
-      "assets/images/halls/hall25_1.jpg",
-      "assets/images/halls/hall25_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-578087556-612x612.jpg",
     "availableDates": ["2026-06-19", "2026-08-17", "2026-09-29"]
   },
 
@@ -637,10 +562,7 @@
       "Fresh floral arrangements require approval.",
       "Event schedule must be strictly followed."
     ],
-    "images": [
-      "assets/images/halls/hall26_1.jpg",
-      "assets/images/halls/hall26_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-914817808-612x612.jpg",
     "availableDates": ["2026-05-26", "2026-07-13", "2026-09-10"]
   },
 
@@ -663,10 +585,7 @@
       "Outside entertainment requires permission.",
       "Property damage charges apply."
     ],
-    "images": [
-      "assets/images/halls/hall27_1.jpg",
-      "assets/images/halls/hall27_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-1086914016-612x612.jpg",
     "availableDates": ["2026-06-07", "2026-08-20", "2026-09-24"]
   },
 
@@ -689,10 +608,7 @@
       "No unauthorized recordings allowed.",
       "Hall equipment must be handled responsibly."
     ],
-    "images": [
-      "assets/images/halls/hall28_1.jpg",
-      "assets/images/halls/hall28_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-1192282894-612x612.jpg",
     "availableDates": ["2026-06-13", "2026-08-03", "2026-09-18"]
   },
 
@@ -715,10 +631,7 @@
       "Decor setup timings must be followed.",
       "Food service must end before venue closing."
     ],
-    "images": [
-      "assets/images/halls/hall29_1.jpg",
-      "assets/images/halls/hall29_2.jpg"
-    ],
+  "images":"./assets/hall images/istockphoto-157377031-612x612.jpg",
     "availableDates": ["2026-05-21", "2026-07-31", "2026-09-15"]
   },
 
@@ -741,10 +654,7 @@
       "Outside catering is prohibited.",
       "Guests must comply with safety regulations."
     ],
-    "images": [
-      "assets/images/halls/hall30_1.jpg",
-      "assets/images/halls/hall30_2.jpg"
-    ],
+   "images":"./assets/hall images/istockphoto-454363903-612x612.jpg",
     "availableDates": ["2026-06-16", "2026-08-14", "2026-09-30"]
   }
 }
